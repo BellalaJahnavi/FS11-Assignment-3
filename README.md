@@ -1,6 +1,6 @@
 # FS11-Assignment-3
 
-1.** Serialization.java**
+  1.**** Serialization.java****
   -----Write a java program, how to implement serialization for a given object. Use required classes and process to complete the serialization.for example take Customer(id, name, contactNo and address) class, use should write the java code, how to serialize Customer object to JavaObject.txt file.
  
 2. **Synchronization.java**
